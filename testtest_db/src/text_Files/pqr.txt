@@ -1,2 +1,6 @@
+<<<<<<< Upstream, based on origin/master
 This is pqr.txt
 changed pqr
+=======
+This is pqr.txt
+>>>>>>> 2e1555e pqr.txt created and xyz developed completely
